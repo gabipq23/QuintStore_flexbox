@@ -129,6 +129,7 @@ img{
     margin: 0 10px;
 }
 
+/* Produtos */
 .produtos{
     max-width: 960px;
     margin: 60px auto;
@@ -167,6 +168,7 @@ img{
     border-top: 8px solid #b3a2ff;
 }
 
+/* Beneficios */
 .beneficios{
     background: #f7f7f7;
     padding: 60px;
@@ -220,6 +222,7 @@ img{
     flex-wrap: wrap;
 }
 
+/* Depoimento */
 .depoimento-item{
     flex: 1 1 300px;
     margin: 20px 10px;
@@ -257,6 +260,7 @@ img{
     color: #7c7c7c;
 }
 
+/* Newsletter */
 .newsletter{
     background: #f7f7f7;
     padding: 60px 150px;
@@ -320,6 +324,8 @@ img{
         font-size: 1.5rem;
     }  
 }
+
+/* Footer */
 .footer{
     height: 200px;
     display: flex;
