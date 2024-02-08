@@ -27,7 +27,7 @@ img{
 
 /* Superinfo */
 .superinfo-bg{
-    background: #122ab2;
+    background: #749778;
     color: white;
 }
 .superinfo{
@@ -47,7 +47,7 @@ img{
 
 /* Menu */
 .menu-bg{
-    background: #2c10ff;
+    background: #94c199;
 }
 
 .menu{
@@ -83,7 +83,7 @@ img{
 }
 
 .menu-nav a:hover{
-    color: #122ab2;
+    color: #749778;
 }
 
 /* Introdução */
@@ -97,8 +97,8 @@ img{
 
 /* Sobre */
 .sobre{
-    border-top: 2px solid #2c10ff;
-    border-bottom: 2px solid #2c10ff;
+    border-top: 2px solid #749778;
+    border-bottom: 2px solid #749778;
     max-width: 960px;
     margin: 0 auto;
     padding: 60px 0;
@@ -158,13 +158,13 @@ img{
 }
 
 .pink{
-    border-top: 8px solid palevioletred;
+    border-top: 8px solid #ffa2d1;
 }
 .orange{
-    border-top: 8px solid orange;
+    border-top: 8px solid #ffa8a2;
 }
 .purple{
-    border-top: 8px solid purple;
+    border-top: 8px solid #b3a2ff;
 }
 
 .beneficios{
@@ -209,7 +209,7 @@ img{
     display: block;
     width: 6px;
     height: 6px;
-    background: #2c10ff;
+    background: #749778;
     border-radius: 3px;
 }
 
@@ -240,15 +240,15 @@ img{
 }
 
 .depoimento-item:nth-of-type(3n+1) h2::before{
-    background: palevioletred;
+    background: #ffa2d1;
 }
 
 .depoimento-item:nth-of-type(3n+2) h2::before{
-    background: orange;
+    background: #ffa8a2;
 }
 
 .depoimento-item:nth-of-type(3n+3) h2::before{
-    background: purple;
+    background: #b3a2ff;
 }
 
 .depoimento-item p{
@@ -292,9 +292,9 @@ img{
 .news-form input{
     flex: 3 1 200px;
     font-size: 1.25rem;
-    color: #7c7c7c;
+    color: #b5b4ae;
     font-family: "Nunito", Helvetica, Arial, sans-serif;
-    border: 4px solid #122ab2;
+    border: 4px solid #749778;
     background: transparent;
     padding: 10px;
     margin: 0px;
@@ -307,7 +307,7 @@ img{
     font-size: 2.25rem;
     font-weight: bold;
     text-transform: uppercase;
-    background: #2c10ff;
+    background: #749778;
     color: white;
     margin: 0px;
     cursor: pointer;
@@ -323,7 +323,7 @@ img{
 .footer{
     height: 200px;
     display: flex;
-    background: #122ab2;
+    background: #94c199;
     align-items: center;
 }
 
